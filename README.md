@@ -1,70 +1,67 @@
-# 🏄‍♂️ Forrest Knight
+# ⛰️ Mount Mike
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Music-Producer/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I am a software developer based in Melbourne with a background in both carpentry and the music industry. I have a passion for leveraging my skills in programming to solve real-world problems that empower others and improve their quality of life.
+ 
+Throughout my experience as a developer and finishing carpenter, I have demonstrated a methodical, result-driven, and consistent approach to projects. I pride myself on my reliability, meticulous attention to detail, and ability to meet deadlines while maintaining a high quality of work. I am a highly focused and persistent individual who is not easily overcome by adversity. My ability to communicate clearly, both verbally and in writing, is a particular strength.
+ 
+I have transitioned into software development because I am a deeply curious individual who enjoys learning new things every day. I love building and creating bespoke solutions from the ground up and am looking forward to doing this with my brain, not just my back.
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <p align="left">  
+      <a href="https://github.com/mountmike?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mountmike?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/mountmike?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mountmike?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://www.linkedin.com/in/michael-tharratt/" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+      <a href="mailto:tharratt.michael@gmail.com">
+      <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+      <a href="https://michaeltharratt,com" rel="nofollow">
+      <img src="https://camo.githubusercontent.com/c873e86c083c071c7fd068a17ab549b763fad7088681d6d831f68b32a4305b3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f776562736974652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&amp;logo=About.me&amp;logoColor=white" style="max-width: 100%;">
+ </a>
+  </a>
+  </a>
    </p>
 
 ---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px" style="margin: 10px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" style="margin: 10px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50px" style="margin: 10px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px" style="margin: 10px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50px" style="margin: 10px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" style="margin: 10px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50px" style="margin: 10px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50px" style="margin: 10px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" style="margin: 10px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px" style="margin: 10px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50px" style="margin: 10px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50px" style="margin: 10px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50px" style="margin: 10px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="50px" style="margin: 10px"/>
 
 #
 
-### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![AI bots were given freedom in a virtual city…](https://ytcards.demolab.com/?id=FBvyxc0PSlc&title=AI+bots+were+given+freedom+in+a+virtual+city%E2%80%A6&lang=en&timestamp=1683126008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=291 "AI bots were given freedom in a virtual city…")](https://www.youtube.com/watch?v=FBvyxc0PSlc)
-[![Elon Musk is building TruthGPT…](https://ytcards.demolab.com/?id=TOIRY9UjAMI&title=Elon+Musk+is+building+TruthGPT%E2%80%A6&lang=en&timestamp=1682002817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=53 "Elon Musk is building TruthGPT…")](https://www.youtube.com/watch?v=TOIRY9UjAMI)
-[![Nvidia's AI Supercomputers Power Everything...](https://ytcards.demolab.com/?id=dgmQ-IAANAc&title=Nvidia%27s+AI+Supercomputers+Power+Everything...&lang=en&timestamp=1681909225&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=482 "Nvidia's AI Supercomputers Power Everything...")](https://www.youtube.com/watch?v=dgmQ-IAANAc)
-[![These AI TOOLS will help you CODE BETTER](https://ytcards.demolab.com/?id=jArtVVbYGKk&title=These+AI+TOOLS+will+help+you+CODE+BETTER&lang=en&timestamp=1681390835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=756 "These AI TOOLS will help you CODE BETTER")](https://www.youtube.com/watch?v=jArtVVbYGKk)
-[![AI Just Got Crazy - Things Will Never Be The Same](https://ytcards.demolab.com/?id=4_frwLFlOt8&title=AI+Just+Got+Crazy+-+Things+Will+Never+Be+The+Same&lang=en&timestamp=1680786003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "AI Just Got Crazy - Things Will Never Be The Same")](https://www.youtube.com/watch?v=4_frwLFlOt8)
-[![How Microsoft Took Control of OpenAI](https://ytcards.demolab.com/?id=o07kRSvz7yM&title=How+Microsoft+Took+Control+of+OpenAI&lang=en&timestamp=1680613236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1176 "How Microsoft Took Control of OpenAI")](https://www.youtube.com/watch?v=o07kRSvz7yM)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Mount Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mountmike&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+My interest in web development began at the age of 10 when I read my first book on CSS at the local library. I went on to secure my first paid job as a junior technician, working at a small town computer shop fixing all manner of hardware & software problems. I recall thinking at the time how much better it was to deal with hardware than software, which is probably why I spent the next 10 years working in more 'hands-on' environments.
+
+<br />
+Fast forward to the first COVID lockdown and I found myself down a DIY rabbit hole building a headless home server. While spending so much time in the terminal I was reminded of just how great it is to solve problems with code. Consequently, I began brushing up on JavaScript and after completing The Odin Project I enrolled in GA's boot camp where I gained valuable real-life experience in React, Node, Express & PostgreSQL to name a few.
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
