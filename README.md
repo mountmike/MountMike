@@ -28,7 +28,7 @@ I have transitioned into software development because I am a deeply curious indi
 
 ### 🧰 Languages and Tools
 
-   <div style="display: flex; gap: 10px">
+   <div style="display: flex; gap: 15px">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"  />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50px"  />
